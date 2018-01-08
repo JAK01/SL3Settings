@@ -22,7 +22,7 @@
 	"material_theme_arrow_folders": true,
 	"material_theme_tabs_separator": true,
 	"overlay_scroll_bars": "enabled",
-	"save_on_focus_lost": true,
+	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"skin": "Material Theme/Material Theme",
 	"tab_size": 4,
