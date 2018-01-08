@@ -1,0 +1,34 @@
+{
+	"always_show_minimap_viewport": true,
+	"atomic_save": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Roboto Mono",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"material_theme_arrow_folders": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"skin": "Material Theme/Material Theme",
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_size_small": false,
+	"word_wrap": true
+}

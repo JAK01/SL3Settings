@@ -1,0 +1,6 @@
+{
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"save_on_focus_lost": true,
+    "line_numbers": true,
+    "draw_centered": false
+}
