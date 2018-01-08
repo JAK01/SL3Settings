@@ -1,2 +1,584 @@
 {
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Mov",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Mjsol",
+				"Mjsolutions\t(seed.php)"
+			],
+			[
+				"Mo",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Upda",
+				"Updates〔namespace〕"
+			],
+			[
+				"act",
+				"actorimage\t(Actor.php)"
+			],
+			[
+				"Co",
+				"Controllers〔namespace〕"
+			],
+			[
+				"cont",
+				"contactform::message\t(ContactForm.php)"
+			],
+			[
+				"th",
+				"this\t$this->"
+			],
+			[
+				"Mjsolutions",
+				"Mjsolutions\\Movies\\Components\\Actors\t(Plugin.php)"
+			],
+			[
+				"Comp",
+				"ComponentBase"
+			],
+			[
+				"pro",
+				"property〔function〕"
+			],
+			[
+				"ac",
+				"actor"
+			],
+			[
+				"A",
+				"Actors\t(Actors.php)"
+			],
+			[
+				"M",
+				"Mjsolutions\t(Actorbox.php)"
+			],
+			[
+				"newA",
+				"newArray"
+			],
+			[
+				"selecte",
+				"selectedValues"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"actor",
+				"actorbox\t(Plugin.php)"
+			],
+			[
+				"Moi",
+				"Movies"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 126.0,
+		"last_filter": "git:push",
+		"selected_items":
+		[
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:a",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"ui ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pc re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"fform",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"cofo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"snippet ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: this",
+				"Snippet: $this->"
+			],
+			[
+				"sshtt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtmti",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"sshmtl t",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"snippetrma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"sshtmlt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"twig",
+				"Set Syntax: October Twig"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"sss",
+				"Set Syntax: Sass"
+			],
+			[
+				"lor",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssgen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ui col",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User"
+	],
+	"file_history":
+	[
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/.gitignore",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/initial",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/updates/version.yaml",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/movie-single.htm",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/movies.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/Plugin.php",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/homepage.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/updates/seed.php",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/models/Actor.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/components/actorform/default.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/components/ActorForm.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-27.zip/Making-Websites-With-October-CMS-27/plugins/watchlearn/movies/updates/seed.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/components/ContactForm.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/components/contactform/default.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/components/contactform/messages.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/profile/updates/add_new_fields.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/profile/Plugin.php",
+		"/D/xampp/htdocs/pat/themes/olympos/partials/user-update.htm",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/login.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/profile/updates/version.yaml",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/this.sublime-snippet",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/add-actors.htm",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/index.htm",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/index.html",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/error/400.html",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/index.xhl",
+		"/D/xampp/htdocs/pat/themes/olympos/layouts/default.htm",
+		"/D/xampp/htdocs/pat/themes/olympos/partials/header.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/Plugin.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/views/mail/message.htm",
+		"/D/xampp/htdocs/pat/config/mail.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/components/actors/default.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/components/Actors.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/formwidgets/Actorbox.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/formwidgets/actorbox/partials/_widget.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/models/Movie.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/models/movie/fields.yaml",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/formwidgets/partials/_widget.htm",
+		"/D/xampp/htdocs/pat/themes/olympos/assets/js/app.js",
+		"/D/xampp/htdocs/pat/themes/laratify-octobercms-octaskin/layouts/octaskin.htm",
+		"/D/xampp/htdocs/pat/.editorconfig",
+		"/D/xampp/htdocs/pat/themes/olympos/partials/footer.htm",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/genres.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/models/Genre.php",
+		"/D/xampp/htdocs/pat/gulpfile.js",
+		"/D/xampp/htdocs/pat/themes/olympos/assets/sass/_globals.scss",
+		"/D/xampp/htdocs/pat/themes/olympos/assets/css/style.css",
+		"/D/xampp/htdocs/pat/themes/demo/assets/javascript/app.js",
+		"/D/xampp/htdocs/pat/themes/demo/pages/about.htm",
+		"/D/xampp/htdocs/pat/themes/demo/theme.yaml",
+		"/D/xampp/htdocs/pat/themes/demo/pages/home.htm",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/F/Package Control Messages.md"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"record",
+			">\n",
+			"slideshow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"movie"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "C:\\Users\\offic\\AppData\\Roaming\\Sublime Text 3\\Packages\\User",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 200.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime_settings.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"movie",
+				"themes\\olympos\\pages\\movies.htm"
+			],
+			[
+				"movie/plu",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"contac",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"login.",
+				"themes\\olympos\\pages\\login.htm"
+			],
+			[
+				"contactform",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"add-ac",
+				"themes\\olympos\\pages\\add-actors.htm"
+			],
+			[
+				"m",
+				"config\\mail.php"
+			],
+			[
+				"mail.php",
+				"config\\mail.php"
+			],
+			[
+				"plugin",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"actorb",
+				"plugins\\mjsolutions\\movies\\formwidgets\\Actorbox.php"
+			],
+			[
+				"movie-sin",
+				"themes\\olympos\\pages\\movie-single.htm"
+			],
+			[
+				"plug",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"defa",
+				"themes\\olympos\\layouts\\default.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
