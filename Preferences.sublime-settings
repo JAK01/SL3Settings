@@ -7,11 +7,11 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Roboto Mono",
-	"font_size": 13,
+	"font_face": "Fira Code",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -25,7 +25,7 @@
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"skin": "Material Theme/Material Theme",
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"ui_fix_tab_labels": true,

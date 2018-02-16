@@ -91,14 +91,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -107,10 +99,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 126.0,
-		"last_filter": "git:push",
+		"height": 351.0,
+		"last_filter": "git:pu",
 		"selected_items":
 		[
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add All"
+			],
+			[
+				"git:a",
+				"Git: Add All"
+			],
 			[
 				"git:push",
 				"Git: Push"
@@ -118,14 +126,6 @@
 			[
 				"gitcom",
 				"Git: Commit"
-			],
-			[
-				"git:pu",
-				"Git: Push"
-			],
-			[
-				"git:a",
-				"Git: Add All"
 			],
 			[
 				"git ad",
@@ -309,8 +309,9 @@
 	],
 	"file_history":
 	[
-		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/README.md",
 		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/.gitignore",
 		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/initial",
@@ -408,38 +409,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"default_dir": "C:\\Users\\offic\\AppData\\Roaming\\Sublime Text 3\\Packages\\User",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
