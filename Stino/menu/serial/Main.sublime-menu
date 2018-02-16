@@ -1,0 +1,44 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Serial Port",
+				"id": "stino_serial_port",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_serials",
+						"command": "stino_refresh_serials"
+					},
+					{"caption": "-"},
+					{
+						"caption": "COM1",
+						"id": "stino_serial_COM1",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "COM1"},
+						"checkbox": true
+					},
+					{
+						"caption": "COM2",
+						"id": "stino_serial_COM2",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "COM2"},
+						"checkbox": true
+					},
+					{
+						"caption": "COM4",
+						"id": "stino_serial_COM4",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "COM4"},
+						"checkbox": true
+					}
+				]
+			}
+		]
+	}
+]

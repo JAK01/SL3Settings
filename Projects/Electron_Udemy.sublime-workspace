@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"timeleft"
+			],
+			[
+				"const",
+				"constructor\t(timer_tray.js)"
+			],
+			[
+				"ex",
+				"exports\t(timer_tray.js)"
+			],
+			[
+				"module",
+				"module\t(timer_tray.js)"
+			],
+			[
+				"menu",
+				"menuConfig"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"main",
+				"mainWindow"
+			],
+			[
+				"cre",
+				"createElement〔function〕"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"me",
+				"metadata\t(index.js)"
+			],
+			[
+				"get",
+				"getValue\t(HMHelper.php)"
+			],
+			[
+				"retu",
+				"returnToRFID"
+			],
+			[
+				"Ap",
+				"ApplicationException"
+			],
+			[
+				"door",
+				"doorinterface"
+			],
+			[
+				"hm",
+				"hmcondition"
+			],
+			[
+				"cons",
+				"__construct"
+			],
+			[
+				"th",
+				"throw\tThrow Exception"
+			],
+			[
+				"interf",
+				"interfacename"
+			],
+			[
+				"doo",
+				"doorinterface"
+			],
+			[
+				"rfid",
+				"rfiddoorinterface"
+			],
+			[
+				"reques",
+				"requestedDoor"
+			],
+			[
+				"int",
+				"interface"
+			],
+			[
+				"inter",
+				"interfaceDoor"
+			],
+			[
+				"reason",
+				"reasonheader"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Rf",
+				"RfidUsers〔variable〕"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"R",
+				"RfidHistory"
+			],
+			[
+				"Rfi",
+				"RfidUsers"
+			],
+			[
+				"Rfid",
+				"RfidUsers"
+			],
+			[
+				"Comp",
+				"ComponentsBase"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"de",
+				"devlist"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ret",
+				"returnID\t(RfidController.php)"
+			],
+			[
+				"spri",
+				"sprint\tArduino Serial.println()"
+			],
+			[
+				"ko",
+				"komt\tHTML.kurzKommentar"
+			],
+			[
+				"kom",
+				"komm\tHTML.Kommentar"
+			],
+			[
+				"km",
+				"komt\tHTML.kurzKommentar"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"Form",
+				"Formulargrößen"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"card-im",
+				"card-img-top \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"w-25 \tBootstrap 4 Class"
+			],
+			[
+				"justi",
+				"justify-content-start \tBootstrap 4 Class"
+			],
+			[
+				"opti",
+				"optimiertes"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"boot",
+				"bootstrap.min.js\t(index.html)"
+			],
+			[
+				"po",
+				"popper.min.js\t(index.html)"
+			],
+			[
+				"boo",
+				"bootstrap.min.css\t(index.html)"
+			],
+			[
+				"Mov",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Mjsol",
+				"Mjsolutions\t(seed.php)"
+			],
+			[
+				"Mo",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Upda",
+				"Updates〔namespace〕"
+			],
+			[
+				"act",
+				"actorimage\t(Actor.php)"
+			],
+			[
+				"Co",
+				"Controllers〔namespace〕"
+			],
+			[
+				"Mjsolutions",
+				"Mjsolutions\\Movies\\Components\\Actors\t(Plugin.php)"
+			],
+			[
+				"pro",
+				"property〔function〕"
+			],
+			[
+				"ac",
+				"actor"
+			],
+			[
+				"A",
+				"Actors\t(Actors.php)"
+			],
+			[
+				"M",
+				"Mjsolutions\t(Actorbox.php)"
+			],
+			[
+				"newA",
+				"newArray"
+			],
+			[
+				"selecte",
+				"selectedValues"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"actor",
+				"actorbox\t(Plugin.php)"
+			],
+			[
+				"Moi",
+				"Movies"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "code j",
+		"selected_items":
+		[
+			[
+				"code j",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"codefo",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"co",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"codef",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss ge",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"ppi ",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"format php",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"gen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"pm op",
+				"Project Manager: Open Project"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"ppc",
+				"Package Control: List Packages"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"pm",
+				"Project Manager"
+			],
+			[
+				"csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"ss gen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"porj",
+				"Project Manager: Rename Project"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:a",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"ui ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pc re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"fform",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"cofo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"snippet ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: this",
+				"Snippet: $this->"
+			],
+			[
+				"sshtt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtmti",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"sshmtl t",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"snippetrma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"sshtmlt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"twig",
+				"Set Syntax: October Twig"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"sss",
+				"Set Syntax: Sass"
+			],
+			[
+				"lor",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssgen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ui col",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Electron/ElectronCode",
+		"/D/Electron/ElectronCode/boilerplates"
+	],
+	"file_history":
+	[
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/README.md",
+		"/D/Electron/ElectronCode/boilerplates/tasky/index.js",
+		"/D/Electron/ElectronCode/boilerplates/tasky/app/main_window.js",
+		"/D/Electron/ElectronCode/boilerplates/tasky/src/components/App.js",
+		"/D/Electron/ElectronCode/boilerplates/tasky/app/timer_tray.js",
+		"/D/Electron/ElectronCode/boilerplates/tasky/package.json",
+		"/D/Electron/todos/index.js",
+		"/D/Electron/todos/add.html",
+		"/D/Electron/todos/main.html",
+		"/C/Users/offic/Downloads/mqtt-spy.log",
+		"/C/Users/offic/Downloads/mqtt-spy.messages",
+		"/D/Electron/videoinfo/.jshintrc",
+		"/D/Electron/videoinfo/index.html",
+		"/D/Electron/videoinfo/index.js",
+		"/D/Electron/videoinfo/package.json",
+		"/D/Electron/todos/package.json",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/api/RfidEspApiController.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/HMHelper.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/hmlib/XMLRPCClient.php",
+		"/C/Users/offic/Desktop/Caritas_Veranstaltungssaal_20170522_WST_10009.pjt",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/hmlib/http.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/routes.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/hmlib/xmlrpc.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/DoorInterface.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/RfidUsers.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/Door.php",
+		"/X/Web/intern.caritas.dev/lib.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/rfidhistory/_reason.htm",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/rfidhistory/columns.yaml",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-10.zip/Making-Websites-With-October-CMS-10/plugins/watchlearn/movies/updates/builder_table_create_watchlearn_movies_movies_genres.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-10.zip/Making-Websites-With-October-CMS-10/plugins/watchlearn/movies/updates/builder_table_create_watchlearn_movies_.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-10.zip/Making-Websites-With-October-CMS-10/plugins/watchlearn/movies/updates/builder_table_update_watchlearn_movies_.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-06.zip/Making-Websites-With-October-CMS-06/plugins/watchlearn/movies/updates/builder_table_create_watchlearn_movies_.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-06.zip/Making-Websites-With-October-CMS-06/plugins/watchlearn/movies/models/Movie.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/Plugin.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/components/rfidesp/default.htm",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/components/Rfidesp.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/api/RfidEspApiController",
+		"/X/Web/tj.local/public/plugins/ahmadfatoni/apigenerator/Plugin.php",
+		"/X/Web/tj.local/public/themes/iottj/layouts/default.htm",
+		"/X/Web/tj.local/public/themes/iottj/partials/header.htm",
+		"/X/Web/tj.local/public/themes/iottj/pages/rfid.htm",
+		"/X/Web/tj.local/public/themes/iottj/pages/rfid-single.htm",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/components/RfidESP.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/rfidusers/config_list.yaml",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/rfidusers/config_form.yaml",
+		"/X/Web/tj.local/public/themes/iottj/assets/css/style.css",
+		"/X/Web/tj.local/public/themes/iottj/partials/footer.htm",
+		"/X/Web/tj.local/public/themes/demo/assets/css/theme.css",
+		"/X/Web/tj.local/public/themes/iottj/assets/javascript/app.js",
+		"/D/Web/TJHome/routes/web.php",
+		"/D/Web/TJHome/resources/assets/js/app.js",
+		"/D/Web/TJHome/resources/assets/sass/app.scss",
+		"/D/Web/TJHome/resources/views/layouts/app.blade.php",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/config/database.php",
+		"/F/600_Haus/iot.tj.local/DB/dbzugangsdaten.txt",
+		"/X/Web/htdocs/assets/kontakte.json",
+		"/X/Web/tj.local/public/themes/iottj/theme.yaml",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_favicomatic.zip/code.txt",
+		"/C/Users/offic/Downloads/temp/patscheider/pages/other-pages/pricing.htm",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/config/app.php",
+		"/D/Web/TJHome/resources/assets/css/app.css",
+		"/D/Web/TJHome/resources/views/master.blade.php",
+		"/D/Web/TJHome/resources/views/partials/sidebar.blade.php",
+		"/D/Web/TJHome/resources/views/partials/header.blade.php",
+		"/D/Web/TJHome/resources/views/heade.blade.php",
+		"/D/Web/TJHome/resources/views/sidebar.blade.php",
+		"/D/Web/TJHome/app/Http/Controllers/HomeController.php",
+		"/D/Web/TJHome/resources/views/theme/default.blade.php",
+		"/D/Web/TJHome/resources/views/theme/header.blade.php",
+		"/D/Web/TJHome/resources/views/theme/sidebar.blade.php",
+		"/D/Web/TJHome/resources/views/myHome.blade.php",
+		"/D/Web/TJHome/resources/views/myUsers.blade.php",
+		"/D/Web/TJHome/vendor/psy/psysh/src/Psy/Formatter/CodeFormatter.php",
+		"/D/Web/TJHome/config/app.php",
+		"/D/Web/TJHome/composer.json",
+		"/D/Web/TJHome - original/composer.json",
+		"/D/Web/TJHome/composer.lock",
+		"/D/Web/TJHome/artisan",
+		"/D/Web/TJHome/package.json",
+		"/D/Web/TJHome/resources/assets/js/bootstrap.js",
+		"/D/Web/TJHome/resources/views/auth/login.blade.php",
+		"/D/Web/TJHome/routes/api.php",
+		"/D/Web/TJHome/resources/views/home.blade.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/resources/views/home.blade.php",
+		"/D/Web/TJHome/app/Http/Controllers/RfidController.php",
+		"/D/Web/TJHome/.env",
+		"/D/Web/TJHome/database/migrations/2018_01_31_183305_create_rfid_table.php",
+		"/D/Web/TJHome/app/Providers/AppServiceProvider.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/composer.json",
+		"/D/Web/TJHome/database/migrations/2018_01_31_184410_create_rfidhistory_table.php",
+		"/D/xampp/php/php.ini",
+		"/D/Web/TJHome/app/Services/client_xmlrpc.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/app/Http/routes.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/app/Http/Controllers/HomeController.php",
+		"/D/Web/TJHome/app/Http/Controllers/Controller.php",
+		"//nas02/Web/iot/public/index.php",
+		"//nas02/Web/iot/public/.htaccess",
+		"//nas02/Webserver/iot/index.php",
+		"/C/Users/offic/Downloads/matrixadmin-updated/themelock.com.txt",
+		"/D/Web/TJHome/vendor/irazasyed/telegram-bot-sdk/src/Laravel/config/telegram.php",
+		"/D/Web/TJHome/config/telegram.php",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/htdocs/hm/lib/client.xmlrpc.php",
+		"/D/xampp/htdocs/hm/xmlrpc.example.php",
+		"/D/Web/TJHome/app/Services/client_json.php",
+		"/D/xampp/htdocs/hm/json.example.php",
+		"/D/Web/TJHome/app/Services/client.http.php",
+		"/D/Web/TJHome/app/Services/client.json.php",
+		"/D/Web/TJHome/app/Services/client.xmlrpc.php",
+		"/D/xampp/htdocs/hm/index.php",
+		"/C/Users/offic/Downloads/xmlapi_addon_1.12.tar/xmlapi/sysvarlist.cgi",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_homematic.class.zip/homematic.class.php",
+		"/D/Web/TJHome/resources/views/welcome.blade.php",
+		"/D/Web/WebApp_Zugriff/resources/views/app.blade.php",
+		"/D/Web/WebApp_Zugriff/resources/views/welcome.blade.php",
+		"/C/Users/offic/Documents/Arduino/hardware/esp8266com/esp8266/libraries/ESP8266WiFi/examples/WiFiWebServer/WiFiWebServer.ino",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/src/WiFiUdp.h",
+		"/C/Users/offic/Documents/Arduino/hardware/esp8266com/esp8266/libraries/ESP8266WiFi/src/WiFiUdp.h",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/src/WiFiUdp.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/src/utility/wifi_drv.h",
+		"/C/Users/offic/Downloads/esp-rfid-0.3beta-ARDU/README.md",
+		"/C/Users/offic/AppData/Local/Arduino15/packages.stino-settings",
+		"/C/Users/offic/OneDrive/Dokumente/Arduino/sketch_dec29a/sketch_dec29a.ino",
+		"/C/Users/offic/OneDrive/Pistotnig_todo",
+		"/C/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/examples/SoftwareSerialExample/SoftwareSerialExample.ino",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setValue",
+			"Ÿ",
+			"($",
+			"cur",
+			"getval",
+			"home",
+			"Klein",
+			"klein",
+			"button",
+			"role",
+			"text",
+			"Text",
+			"text",
+			"<div class=\"row align-items-start\">\n                <div class=\"col\"></div>\n                <div class=\"col\"></div>\n                <div class=\"col\"></div>\n            </div>",
+			"col",
+			"<div class=\"col\"></div>",
+			"\"Std\"",
+			"\"t\"",
+			"\"Std\"",
+			"record",
+			">\n",
+			"slideshow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ü",
+			"Stunde/n",
+			"\"Tonne\"",
+			"\"Stunde/n\"",
+			"movie"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 206.0
+	},
+	"output.stino_panel":
+	{
+		"height": 200.0
+	},
+	"pinned_build_system": "",
+	"project": "Electron_Udemy.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"plugin.",
+				"tj.local\\public\\plugins\\ahmadfatoni\\apigenerator\\Plugin.php"
+			],
+			[
+				"app.scss",
+				"TJHome\\resources\\assets\\sass\\app.scss"
+			],
+			[
+				"web.php",
+				"TJHome\\routes\\web.php"
+			],
+			[
+				"codef",
+				"TJHome\\vendor\\psy\\psysh\\src\\Psy\\Formatter\\CodeFormatter.php"
+			],
+			[
+				"js/boot",
+				"TJHome\\resources\\assets\\js\\bootstrap.js"
+			],
+			[
+				"sass/app.",
+				"TJHome\\resources\\assets\\sass\\app.scss"
+			],
+			[
+				"bootstrp.js",
+				"TJHome\\resources\\assets\\js\\bootstrap.js"
+			],
+			[
+				"web",
+				"TJHome\\routes\\web.php"
+			],
+			[
+				"homecon",
+				"TJHome\\app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"appse",
+				"TJHome\\app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"appserv",
+				"TJHome\\app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"telegram.php",
+				"TJHome\\vendor\\irazasyed\\telegram-bot-sdk\\src\\Laravel\\config\\telegram.php"
+			],
+			[
+				"telegram",
+				"TJHome\\config\\telegram.php"
+			],
+			[
+				"app",
+				"TJHome\\config\\app.php"
+			],
+			[
+				"compo",
+				"TJHome\\composer.json"
+			],
+			[
+				"config/tele",
+				"TJHome\\vendor\\irazasyed\\telegram-bot-sdk\\src\\Laravel\\config\\telegram.php"
+			],
+			[
+				"app.",
+				"TJHome\\config\\app.php"
+			],
+			[
+				"comp",
+				"TJHome\\composer.json"
+			],
+			[
+				"client",
+				"hm\\lib\\client.xmlrpc.php"
+			],
+			[
+				"rfi",
+				"TJHome\\app\\Http\\Controllers\\RfidController.php"
+			],
+			[
+				"rfidc",
+				"TJHome\\app\\Http\\Controllers\\RfidController.php"
+			],
+			[
+				"movie",
+				"themes\\olympos\\pages\\movies.htm"
+			],
+			[
+				"movie/plu",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"contac",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"login.",
+				"themes\\olympos\\pages\\login.htm"
+			],
+			[
+				"contactform",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"add-ac",
+				"themes\\olympos\\pages\\add-actors.htm"
+			],
+			[
+				"m",
+				"config\\mail.php"
+			],
+			[
+				"mail.php",
+				"config\\mail.php"
+			],
+			[
+				"plugin",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"actorb",
+				"plugins\\mjsolutions\\movies\\formwidgets\\Actorbox.php"
+			],
+			[
+				"movie-sin",
+				"themes\\olympos\\pages\\movie-single.htm"
+			],
+			[
+				"plug",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"defa",
+				"themes\\olympos\\layouts\\default.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

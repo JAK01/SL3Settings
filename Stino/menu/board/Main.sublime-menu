@@ -1,0 +1,61 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Board",
+				"id": "stino_board",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_boards",
+						"command": "stino_refresh_boards"
+					},
+					{
+						"caption": "Save for Current Sketch",
+						"id": "stino_save_for_sketch",
+						"command": "stino_save_for_sketch"
+					},
+					{
+						"caption": "Remove Current Sketch Settings",
+						"id": "stino_remove_sketch_settings",
+						"command": "stino_remove_sketch_settings"
+					},
+					{"caption": "-"},
+					{
+						"caption": "Generic ESP8266 Module",
+						"id": "stino_board_Generic ESP8266 Module",
+						"command": "stino_select_board",
+						"args": {"board_name": "Generic ESP8266 Module"},
+						"checkbox": true
+					},
+					{
+						"caption": "Generic ESP8285 Module",
+						"id": "stino_board_Generic ESP8285 Module",
+						"command": "stino_select_board",
+						"args": {"board_name": "Generic ESP8285 Module"},
+						"checkbox": true
+					},
+					{
+						"caption": "WEMOS D1 & mini",
+						"id": "stino_board_WEMOS D1 & mini",
+						"command": "stino_select_board",
+						"args": {"board_name": "WEMOS D1 & mini"},
+						"checkbox": true
+					},
+					{
+						"caption": "WEMOS D1 mini Lite",
+						"id": "stino_board_WEMOS D1 mini Lite",
+						"command": "stino_select_board",
+						"args": {"board_name": "WEMOS D1 mini Lite"},
+						"checkbox": true
+					}
+				]
+			}
+		]
+	}
+]

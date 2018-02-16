@@ -1,0 +1,1213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getValue\t(HMHelper.php)"
+			],
+			[
+				"retu",
+				"returnToRFID"
+			],
+			[
+				"Ap",
+				"ApplicationException"
+			],
+			[
+				"door",
+				"doorinterface"
+			],
+			[
+				"hm",
+				"hmcondition"
+			],
+			[
+				"cons",
+				"__construct"
+			],
+			[
+				"th",
+				"throw\tThrow Exception"
+			],
+			[
+				"interf",
+				"interfacename"
+			],
+			[
+				"doo",
+				"doorinterface"
+			],
+			[
+				"rfid",
+				"rfiddoorinterface"
+			],
+			[
+				"reques",
+				"requestedDoor"
+			],
+			[
+				"int",
+				"interface"
+			],
+			[
+				"inter",
+				"interfaceDoor"
+			],
+			[
+				"reason",
+				"reasonheader"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Rf",
+				"RfidUsers〔variable〕"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"R",
+				"RfidHistory"
+			],
+			[
+				"Rfi",
+				"RfidUsers"
+			],
+			[
+				"Rfid",
+				"RfidUsers"
+			],
+			[
+				"Comp",
+				"ComponentsBase"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"de",
+				"devlist"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ret",
+				"returnID\t(RfidController.php)"
+			],
+			[
+				"spri",
+				"sprint\tArduino Serial.println()"
+			],
+			[
+				"ko",
+				"komt\tHTML.kurzKommentar"
+			],
+			[
+				"kom",
+				"komm\tHTML.Kommentar"
+			],
+			[
+				"km",
+				"komt\tHTML.kurzKommentar"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"Form",
+				"Formulargrößen"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"card-im",
+				"card-img-top \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"w-25 \tBootstrap 4 Class"
+			],
+			[
+				"justi",
+				"justify-content-start \tBootstrap 4 Class"
+			],
+			[
+				"opti",
+				"optimiertes"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"boot",
+				"bootstrap.min.js\t(index.html)"
+			],
+			[
+				"po",
+				"popper.min.js\t(index.html)"
+			],
+			[
+				"boo",
+				"bootstrap.min.css\t(index.html)"
+			],
+			[
+				"Mov",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Mjsol",
+				"Mjsolutions\t(seed.php)"
+			],
+			[
+				"Mo",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Upda",
+				"Updates〔namespace〕"
+			],
+			[
+				"act",
+				"actorimage\t(Actor.php)"
+			],
+			[
+				"Co",
+				"Controllers〔namespace〕"
+			],
+			[
+				"Mjsolutions",
+				"Mjsolutions\\Movies\\Components\\Actors\t(Plugin.php)"
+			],
+			[
+				"pro",
+				"property〔function〕"
+			],
+			[
+				"ac",
+				"actor"
+			],
+			[
+				"A",
+				"Actors\t(Actors.php)"
+			],
+			[
+				"M",
+				"Mjsolutions\t(Actorbox.php)"
+			],
+			[
+				"newA",
+				"newArray"
+			],
+			[
+				"selecte",
+				"selectedValues"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"actor",
+				"actorbox\t(Plugin.php)"
+			],
+			[
+				"Moi",
+				"Movies"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/X/Web/tj.local/public/themes/iottj/partials/header.htm",
+			"settings":
+			{
+				"buffer_size": 462,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "co",
+		"selected_items":
+		[
+			[
+				"co",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"codef",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss ge",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"ppi ",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"format php",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"gen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"pm op",
+				"Project Manager: Open Project"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"ppc",
+				"Package Control: List Packages"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"pm",
+				"Project Manager"
+			],
+			[
+				"csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"ss gen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"porj",
+				"Project Manager: Rename Project"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:a",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"ui ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pc re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"fform",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"cofo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"snippet ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: this",
+				"Snippet: $this->"
+			],
+			[
+				"sshtt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtmti",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"sshmtl t",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"snippetrma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"sshtmlt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"twig",
+				"Set Syntax: October Twig"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"sss",
+				"Set Syntax: Sass"
+			],
+			[
+				"lor",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssgen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ui col",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/X/Web/tj.local",
+		"/X/Web/tj.local/public",
+		"/X/Web/tj.local/public/themes",
+		"/X/Web/tj.local/public/themes/iottj",
+		"/X/Web/tj.local/public/themes/iottj/pages",
+		"/X/Web/tj.local/public/themes/iottj/partials"
+	],
+	"file_history":
+	[
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/api/RfidEspApiController.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/HMHelper.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/hmlib/XMLRPCClient.php",
+		"/C/Users/offic/Desktop/Caritas_Veranstaltungssaal_20170522_WST_10009.pjt",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/hmlib/http.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/routes.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/helpers/hmlib/xmlrpc.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/DoorInterface.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/RfidUsers.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/Door.php",
+		"/X/Web/intern.caritas.dev/lib.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/rfidhistory/_reason.htm",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/models/rfidhistory/columns.yaml",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-10.zip/Making-Websites-With-October-CMS-10/plugins/watchlearn/movies/updates/builder_table_create_watchlearn_movies_movies_genres.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-10.zip/Making-Websites-With-October-CMS-10/plugins/watchlearn/movies/updates/builder_table_create_watchlearn_movies_.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-10.zip/Making-Websites-With-October-CMS-10/plugins/watchlearn/movies/updates/builder_table_update_watchlearn_movies_.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-06.zip/Making-Websites-With-October-CMS-06/plugins/watchlearn/movies/updates/builder_table_create_watchlearn_movies_.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-06.zip/Making-Websites-With-October-CMS-06/plugins/watchlearn/movies/models/Movie.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/Plugin.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/components/rfidesp/default.htm",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/components/Rfidesp.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/api/RfidEspApiController",
+		"/X/Web/tj.local/public/plugins/ahmadfatoni/apigenerator/Plugin.php",
+		"/X/Web/tj.local/public/themes/iottj/layouts/default.htm",
+		"/X/Web/tj.local/public/themes/iottj/partials/header.htm",
+		"/X/Web/tj.local/public/themes/iottj/pages/rfid.htm",
+		"/X/Web/tj.local/public/themes/iottj/pages/rfid-single.htm",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/components/RfidESP.php",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/rfidusers/config_list.yaml",
+		"/X/Web/tj.local/public/plugins/mjsolutions/rfid/controllers/rfidusers/config_form.yaml",
+		"/X/Web/tj.local/public/themes/iottj/assets/css/style.css",
+		"/X/Web/tj.local/public/themes/iottj/partials/footer.htm",
+		"/X/Web/tj.local/public/themes/demo/assets/css/theme.css",
+		"/X/Web/tj.local/public/themes/iottj/assets/javascript/app.js",
+		"/D/Web/TJHome/routes/web.php",
+		"/D/Web/TJHome/resources/assets/js/app.js",
+		"/D/Web/TJHome/resources/assets/sass/app.scss",
+		"/D/Web/TJHome/resources/views/layouts/app.blade.php",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/config/database.php",
+		"/F/600_Haus/iot.tj.local/DB/dbzugangsdaten.txt",
+		"/X/Web/htdocs/assets/kontakte.json",
+		"/X/Web/tj.local/public/themes/iottj/theme.yaml",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_favicomatic.zip/code.txt",
+		"/C/Users/offic/Downloads/temp/patscheider/pages/other-pages/pricing.htm",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/config/app.php",
+		"/D/Web/TJHome/resources/assets/css/app.css",
+		"/D/Web/TJHome/resources/views/master.blade.php",
+		"/D/Web/TJHome/resources/views/partials/sidebar.blade.php",
+		"/D/Web/TJHome/resources/views/partials/header.blade.php",
+		"/D/Web/TJHome/resources/views/heade.blade.php",
+		"/D/Web/TJHome/resources/views/sidebar.blade.php",
+		"/D/Web/TJHome/app/Http/Controllers/HomeController.php",
+		"/D/Web/TJHome/resources/views/theme/default.blade.php",
+		"/D/Web/TJHome/resources/views/theme/header.blade.php",
+		"/D/Web/TJHome/resources/views/theme/sidebar.blade.php",
+		"/D/Web/TJHome/resources/views/myHome.blade.php",
+		"/D/Web/TJHome/resources/views/myUsers.blade.php",
+		"/D/Web/TJHome/vendor/psy/psysh/src/Psy/Formatter/CodeFormatter.php",
+		"/D/Web/TJHome/config/app.php",
+		"/D/Web/TJHome/composer.json",
+		"/D/Web/TJHome - original/composer.json",
+		"/D/Web/TJHome/composer.lock",
+		"/D/Web/TJHome/artisan",
+		"/D/Web/TJHome/package.json",
+		"/D/Web/TJHome/resources/assets/js/bootstrap.js",
+		"/D/Web/TJHome/resources/views/auth/login.blade.php",
+		"/D/Web/TJHome/routes/api.php",
+		"/D/Web/TJHome/resources/views/home.blade.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/resources/views/home.blade.php",
+		"/D/Web/TJHome/app/Http/Controllers/RfidController.php",
+		"/D/Web/TJHome/.env",
+		"/D/Web/TJHome/database/migrations/2018_01_31_183305_create_rfid_table.php",
+		"/D/Web/TJHome/app/Providers/AppServiceProvider.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/composer.json",
+		"/D/Web/TJHome/database/migrations/2018_01_31_184410_create_rfidhistory_table.php",
+		"/D/xampp/php/php.ini",
+		"/D/Web/TJHome/app/Services/client_xmlrpc.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/app/Http/routes.php",
+		"/C/Users/offic/Downloads/sb-admin-laravel-5-master/app/Http/Controllers/HomeController.php",
+		"/D/Web/TJHome/app/Http/Controllers/Controller.php",
+		"//nas02/Web/iot/public/index.php",
+		"//nas02/Web/iot/public/.htaccess",
+		"//nas02/Webserver/iot/index.php",
+		"/C/Users/offic/Downloads/matrixadmin-updated/themelock.com.txt",
+		"/D/Web/TJHome/vendor/irazasyed/telegram-bot-sdk/src/Laravel/config/telegram.php",
+		"/D/Web/TJHome/config/telegram.php",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/htdocs/hm/lib/client.xmlrpc.php",
+		"/D/xampp/htdocs/hm/xmlrpc.example.php",
+		"/D/Web/TJHome/app/Services/client_json.php",
+		"/D/xampp/htdocs/hm/json.example.php",
+		"/D/Web/TJHome/app/Services/client.http.php",
+		"/D/Web/TJHome/app/Services/client.json.php",
+		"/D/Web/TJHome/app/Services/client.xmlrpc.php",
+		"/D/xampp/htdocs/hm/index.php",
+		"/C/Users/offic/Downloads/xmlapi_addon_1.12.tar/xmlapi/sysvarlist.cgi",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_homematic.class.zip/homematic.class.php",
+		"/D/Web/TJHome/resources/views/welcome.blade.php",
+		"/D/Web/WebApp_Zugriff/resources/views/app.blade.php",
+		"/D/Web/WebApp_Zugriff/resources/views/welcome.blade.php",
+		"/C/Users/offic/Documents/Arduino/hardware/esp8266com/esp8266/libraries/ESP8266WiFi/examples/WiFiWebServer/WiFiWebServer.ino",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/src/WiFiUdp.h",
+		"/C/Users/offic/Documents/Arduino/hardware/esp8266com/esp8266/libraries/ESP8266WiFi/src/WiFiUdp.h",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/src/WiFiUdp.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/WiFi/src/utility/wifi_drv.h",
+		"/C/Users/offic/Downloads/esp-rfid-0.3beta-ARDU/README.md",
+		"/C/Users/offic/AppData/Local/Arduino15/packages.stino-settings",
+		"/C/Users/offic/OneDrive/Dokumente/Arduino/sketch_dec29a/sketch_dec29a.ino",
+		"/C/Users/offic/OneDrive/Pistotnig_todo",
+		"/C/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/examples/SoftwareSerialExample/SoftwareSerialExample.ino",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.25 Über Uns/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.25 Über Uns/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.26 Die Bohne/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.23 Navigation/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.22 Vorbereitung/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.23 Navigation/index.html",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/komt.sublime-snippet",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.22 Vorbereitung/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.17 Formulare Teil 2/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.18 Tabellen/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.16 Formulare Teil 1/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.22 Vorbereitung/index-finish.html",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/themes/hambern-hambern-blank-bootstrap-4/partials/navbar.htm",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/themes/hambern-hambern-blank-bootstrap-4/pages/features.htm",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/themes/hambern-hambern-blank-bootstrap-4/layouts/default.htm"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setValue",
+			"Ÿ",
+			"($",
+			"cur",
+			"getval",
+			"home",
+			"Klein",
+			"klein",
+			"button",
+			"role",
+			"text",
+			"Text",
+			"text",
+			"<div class=\"row align-items-start\">\n                <div class=\"col\"></div>\n                <div class=\"col\"></div>\n                <div class=\"col\"></div>\n            </div>",
+			"col",
+			"<div class=\"col\"></div>",
+			"\"Std\"",
+			"\"t\"",
+			"\"Std\"",
+			"record",
+			">\n",
+			"slideshow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ü",
+			"Stunde/n",
+			"\"Tonne\"",
+			"\"Stunde/n\"",
+			"movie"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/X/Web/tj.local/public/themes/iottj/partials/header.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										528,
+										530
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										425,
+										427
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										404,
+										406
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										304,
+										306
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"markdonw_live_preview_last_run": 1518765755.04,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 206.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TJHome.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"plugin.",
+				"tj.local\\public\\plugins\\ahmadfatoni\\apigenerator\\Plugin.php"
+			],
+			[
+				"app.scss",
+				"TJHome\\resources\\assets\\sass\\app.scss"
+			],
+			[
+				"web.php",
+				"TJHome\\routes\\web.php"
+			],
+			[
+				"codef",
+				"TJHome\\vendor\\psy\\psysh\\src\\Psy\\Formatter\\CodeFormatter.php"
+			],
+			[
+				"js/boot",
+				"TJHome\\resources\\assets\\js\\bootstrap.js"
+			],
+			[
+				"sass/app.",
+				"TJHome\\resources\\assets\\sass\\app.scss"
+			],
+			[
+				"bootstrp.js",
+				"TJHome\\resources\\assets\\js\\bootstrap.js"
+			],
+			[
+				"web",
+				"TJHome\\routes\\web.php"
+			],
+			[
+				"homecon",
+				"TJHome\\app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"appse",
+				"TJHome\\app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"appserv",
+				"TJHome\\app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"telegram.php",
+				"TJHome\\vendor\\irazasyed\\telegram-bot-sdk\\src\\Laravel\\config\\telegram.php"
+			],
+			[
+				"telegram",
+				"TJHome\\config\\telegram.php"
+			],
+			[
+				"app",
+				"TJHome\\config\\app.php"
+			],
+			[
+				"compo",
+				"TJHome\\composer.json"
+			],
+			[
+				"config/tele",
+				"TJHome\\vendor\\irazasyed\\telegram-bot-sdk\\src\\Laravel\\config\\telegram.php"
+			],
+			[
+				"app.",
+				"TJHome\\config\\app.php"
+			],
+			[
+				"comp",
+				"TJHome\\composer.json"
+			],
+			[
+				"client",
+				"hm\\lib\\client.xmlrpc.php"
+			],
+			[
+				"rfi",
+				"TJHome\\app\\Http\\Controllers\\RfidController.php"
+			],
+			[
+				"rfidc",
+				"TJHome\\app\\Http\\Controllers\\RfidController.php"
+			],
+			[
+				"movie",
+				"themes\\olympos\\pages\\movies.htm"
+			],
+			[
+				"movie/plu",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"contac",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"login.",
+				"themes\\olympos\\pages\\login.htm"
+			],
+			[
+				"contactform",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"add-ac",
+				"themes\\olympos\\pages\\add-actors.htm"
+			],
+			[
+				"m",
+				"config\\mail.php"
+			],
+			[
+				"mail.php",
+				"config\\mail.php"
+			],
+			[
+				"plugin",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"actorb",
+				"plugins\\mjsolutions\\movies\\formwidgets\\Actorbox.php"
+			],
+			[
+				"movie-sin",
+				"themes\\olympos\\pages\\movie-single.htm"
+			],
+			[
+				"plug",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"defa",
+				"themes\\olympos\\layouts\\default.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

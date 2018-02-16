@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"navbar-",
+				"navbar-inverse \tBootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"bg-inverse \tBootstrap 4 Class"
+			],
+			[
+				"ko",
+				"komt\tHTML.kurzKommentar"
+			],
+			[
+				"kom",
+				"komm\tHTML.Kommentar"
+			],
+			[
+				"km",
+				"komt\tHTML.kurzKommentar"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"Form",
+				"Formulargrößen"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"card-im",
+				"card-img-top \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"w-25 \tBootstrap 4 Class"
+			],
+			[
+				"justi",
+				"justify-content-start \tBootstrap 4 Class"
+			],
+			[
+				"opti",
+				"optimiertes"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"boot",
+				"bootstrap.min.js\t(index.html)"
+			],
+			[
+				"po",
+				"popper.min.js\t(index.html)"
+			],
+			[
+				"boo",
+				"bootstrap.min.css\t(index.html)"
+			],
+			[
+				"Mov",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Mjsol",
+				"Mjsolutions\t(seed.php)"
+			],
+			[
+				"Mo",
+				"Movie\t(seed.php)"
+			],
+			[
+				"Upda",
+				"Updates〔namespace〕"
+			],
+			[
+				"act",
+				"actorimage\t(Actor.php)"
+			],
+			[
+				"Co",
+				"Controllers〔namespace〕"
+			],
+			[
+				"th",
+				"this\t$this->"
+			],
+			[
+				"Mjsolutions",
+				"Mjsolutions\\Movies\\Components\\Actors\t(Plugin.php)"
+			],
+			[
+				"Comp",
+				"ComponentBase"
+			],
+			[
+				"pro",
+				"property〔function〕"
+			],
+			[
+				"ac",
+				"actor"
+			],
+			[
+				"A",
+				"Actors\t(Actors.php)"
+			],
+			[
+				"M",
+				"Mjsolutions\t(Actorbox.php)"
+			],
+			[
+				"newA",
+				"newArray"
+			],
+			[
+				"selecte",
+				"selectedValues"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"actor",
+				"actorbox\t(Plugin.php)"
+			],
+			[
+				"Moi",
+				"Movies"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"ftps",
+				"FTPSync: Browse"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"pm",
+				"Project Manager"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"ppc",
+				"Package Control: List Packages"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"ss gen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"porj",
+				"Project Manager: Rename Project"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:a",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"ui ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pc re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"fform",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"cofo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"snippet ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: this",
+				"Snippet: $this->"
+			],
+			[
+				"sshtt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sshtmti",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"sshmtl t",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"snippetrma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"sshtmlt",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"twig",
+				"Set Syntax: October Twig"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"sss",
+				"Set Syntax: Sass"
+			],
+			[
+				"lor",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssgen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ui col",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Web/Pat",
+		"/D/Web/Pat/themes",
+		"/D/Web/Pat/themes/patscheider",
+		"/D/Web/Pat/themes/patscheider/pages",
+		"/D/Web/Pat/themes/patscheider/pages/other-pages",
+		"/D/Web/Pat/themes/patscheider/partials"
+	],
+	"file_history":
+	[
+		"/D/Web/Pat/themes/patscheider/assets/css/style.css",
+		"/D/Web/Pat/themes/patscheider/partials/header.htm",
+		"/D/Web/Pat/themes/patscheider/layouts/Default.htm",
+		"/D/Web/Pat/themes/patscheider/pages/home.htm",
+		"/D/Web/Pat/themes/patscheider/partials/footer.htm",
+		"/D/Web/Pat/themes/patscheider/pages/other-pages/404.htm",
+		"/D/Web/Pat/themes/patscheider/pages/contact.htm",
+		"/C/Users/offic/.fakturama2/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.sebulli.fakturama.rcp.prefs",
+		"/D/Web/Pat/themes/patscheider/pages/about.htm",
+		"/D/Web/Pat/themes/patscheider/pages/portfolio/portfolio-1-col.htm",
+		"/D/Web/Pat/themes/patscheider/assets/images/logo.png",
+		"/D/Web/Pat/themes/patscheider/partials/home-slider.htm",
+		"/D/Web/Pat/config/app.php",
+		"/D/Web/Pat/themes/patscheider/layouts/default.htm",
+		"/D/Web/Pat/themes/patscheider/assets/css/theme.css",
+		"/D/Web/Pat/themes/patscheider/partials/site/navbar.htm",
+		"/D/Web/Pat/themes/patscheider/pages/homepage.htm",
+		"/D/Web/Pat/themes/patscheider/assets/javascript/custom.js",
+		"/D/Web/Pat/themes/patscheider/partials/site/footer.htm",
+		"/D/Web/Pat/themes/patscheider/assets/javascript/app.js",
+		"/D/Web/Pat/themes/patscheider/assets/css/vendor.css",
+		"/D/Web/Pat/test.html",
+		"/D/Web/Pat/ftpsync.settings",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.25 Über Uns/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.25 Über Uns/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.26 Die Bohne/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.23 Navigation/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.22 Vorbereitung/assets/css/style.css",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.23 Navigation/index.html",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/komt.sublime-snippet",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.22 Vorbereitung/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.24 Hero/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.17 Formulare Teil 2/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.18 Tabellen/index-finish.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.16 Formulare Teil 1/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/04/4.22 Vorbereitung/index-finish.html",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/themes/hambern-hambern-blank-bootstrap-4/partials/navbar.htm",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/themes/hambern-hambern-blank-bootstrap-4/pages/features.htm",
+		"/C/Users/offic/AppData/Local/Temp/_tcx/0/0/html/demo18/themes/hambern-hambern-blank-bootstrap-4/layouts/default.htm",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.15 Cards Teil 2/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.14 Cards Teil 1/text.txt",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.14 Cards Teil 1/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.12 Das Gridsystem - Teil 2/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.13 Das Gridsystem - Erweiterte Funktionen/index.html",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/komm.sublime-snippet",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/03/3.11 Das Gridsystem  - Teil 1/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/02/2.9 Erstellen der Projektumgebung - Methode 1/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/02/2.10 Erstellen der Projektumgebung - Methode 2/index.html",
+		"/D/Web/Starten-mit-Bootstrap-4-Kursdaten/02/2.10 Erstellen der Projektumgebung - Methode 2/assets/js/popper.min.js",
+		"/C/Users/offic/OneDrive/Patscheider/Preislisten/IMP_EXP/ProduktListe.csv",
+		"/C/Users/offic/OneDrive/Patscheider/Fakturama_Settings.txt",
+		"/D/FAK20_PAT/Vorlagen/Start/start.html",
+		"/D/FAK20_PAT/Log/Error.2018-01-20.log",
+		"/C/Fakturama2/Fakturama.ini",
+		"/C/Fakturama2/configuration/org.eclipse.update/platform.xml",
+		"/D/PatMYSQLEXT/Database/Database.log",
+		"/C/Fakturama2/artifacts.xml",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Projects/PatWeb.sublime-project",
+		"/d/Web/Pat/index.html",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/test.sublime-snippet",
+		"/D/pat-web/.docker/docker-compose.yml",
+		"/C/ProgramData/Docker/config/daemon.json",
+		"/C/Users/offic/AppData/Roaming/Docker/settings.json",
+		"/C/ProgramData/Docker/service.0.txt",
+		"/D/PATWeb/october-cms-vagrant/bootstrap.sh",
+		"/D/PATWeb/october-cms-vagrant/Vagrantfile",
+		"/D/PATWeb/scotch-box/README.md",
+		"/D/PATWeb/scotch-box/Vagrantfile",
+		"/D/PATWeb/scotch-box/public/config/app.php",
+		"/Z/Fakturama2/configuration/config.ini",
+		"/D/fakpat/impexp/Produktliste_import.csv",
+		"/C/Users/offic/Documents/My Games/FarmingSimulator2017/savegame20/careerSavegame.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Insurgency Dedicated Server/StartServer.bat",
+		"/D/Program Files (x86)/Steam/steamapps/common/Insurgency Dedicated Server/insurgency/cfg/server_cooperative.cfg",
+		"/D/Program Files (x86)/Steam/steamapps/common/Insurgency Dedicated Server/dbg_crashhandler_exe.log",
+		"/D/Program Files (x86)/Steam/steamapps/common/Insurgency Dedicated Server/dbg_crashhandler_engine.log",
+		"/D/Program Files (x86)/Steam/steamapps/common/Insurgency Dedicated Server/insurgency/cfg/server.cfg.example",
+		"/D/Program Files (x86)/Steam/steamapps/common/Insurgency Dedicated Server/steam_appid.txt",
+		"/C/Users/offic/Documents/My Games/RelicDownloader/warnings.log",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_LocoDrive.zip/LocoDrive.lua",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_LocoDrive.zip/register.lua",
+		"/C/Users/offic/Documents/My Games/RelicDownloader/config.txt",
+		"/A/ktkey   - 3d",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_FS17_FarmingTablet.zip/FarmingTablet.lua",
+		"/C/Users/offic/OneDrive/Patscheider/todo.txt",
+		"/A/kt.txt",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/A/05_Doku/KT_PW_Pokemon.txt",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_ProjectSend-r754.zip/ProjectSend-r754/includes/sys.config.sample.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_ProjectSend-r754.zip/ProjectSend-r754/README.md",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/.gitignore",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/initial",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/updates/version.yaml",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/movie-single.htm",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/movies.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/Plugin.php",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/homepage.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/updates/seed.php",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/models/Actor.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/components/actorform/default.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/movies/components/ActorForm.php",
+		"/C/Users/offic/AppData/Local/Temp/Temp1_Making-Websites-With-October-CMS-27.zip/Making-Websites-With-October-CMS-27/plugins/watchlearn/movies/updates/seed.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/components/ContactForm.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/components/contactform/default.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/components/contactform/messages.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/profile/updates/add_new_fields.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/profile/Plugin.php",
+		"/D/xampp/htdocs/pat/themes/olympos/partials/user-update.htm",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/login.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/profile/updates/version.yaml",
+		"/C/Users/offic/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/this.sublime-snippet",
+		"/D/xampp/htdocs/pat/themes/olympos/pages/add-actors.htm",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/index.htm",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/index.html",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/error/400.html",
+		"/C/Users/offic/OneDrive/Patscheider/WebAlt/index.xhl",
+		"/D/xampp/htdocs/pat/themes/olympos/layouts/default.htm",
+		"/D/xampp/htdocs/pat/themes/olympos/partials/header.htm",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/Plugin.php",
+		"/D/xampp/htdocs/pat/plugins/mjsolutions/contact/views/mail/message.htm"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar-brand",
+			"<li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>",
+			"        \n",
+			"name@example.com",
+			"home",
+			"produkte",
+			"home",
+			"Klein",
+			"klein",
+			"button",
+			"role",
+			"text",
+			"Text",
+			"text",
+			"<div class=\"row align-items-start\">\n                <div class=\"col\"></div>\n                <div class=\"col\"></div>\n                <div class=\"col\"></div>\n            </div>",
+			"col",
+			"<div class=\"col\"></div>",
+			"\"Std\"",
+			"\"t\"",
+			"\"Std\"",
+			"record",
+			">\n",
+			"slideshow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Stunde/n",
+			"\"Tonne\"",
+			"\"Stunde/n\"",
+			"movie"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PAT_Demo2018.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"contact",
+				"themes\\patscheider\\pages\\contact.htm"
+			],
+			[
+				"movie",
+				"themes\\olympos\\pages\\movies.htm"
+			],
+			[
+				"movie/plu",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"contac",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"login.",
+				"themes\\olympos\\pages\\login.htm"
+			],
+			[
+				"contactform",
+				"plugins\\mjsolutions\\contact\\components\\ContactForm.php"
+			],
+			[
+				"add-ac",
+				"themes\\olympos\\pages\\add-actors.htm"
+			],
+			[
+				"m",
+				"config\\mail.php"
+			],
+			[
+				"mail.php",
+				"config\\mail.php"
+			],
+			[
+				"plugin",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"actorb",
+				"plugins\\mjsolutions\\movies\\formwidgets\\Actorbox.php"
+			],
+			[
+				"movie-sin",
+				"themes\\olympos\\pages\\movie-single.htm"
+			],
+			[
+				"plug",
+				"plugins\\mjsolutions\\movies\\Plugin.php"
+			],
+			[
+				"defa",
+				"themes\\olympos\\layouts\\default.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

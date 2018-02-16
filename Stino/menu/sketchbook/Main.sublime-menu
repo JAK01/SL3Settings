@@ -1,0 +1,150 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Open Sketch",
+				"id": "stino_sketchbook",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_sketchbook",
+						"command": "stino_refresh_sketchbook"
+					},
+					{
+						"caption": "Change Location...",
+						"id": "stino_change_sketchbook_location",
+						"command": "stino_change_sketchbook_location"
+					},
+					{
+						"caption": "In New Window",
+						"id": "stino_open_in_new_win",
+						"command": "stino_open_in_new_win",
+						"checkbox": true
+					},
+					{
+						"caption": "All Source Files",
+						"id": "stino_open_all_src",
+						"command": "stino_open_all_src",
+						"checkbox": true
+					},
+					{"caption": "-"},					{
+						"caption": "New Sketch...",
+						"id": "stino_new_sketch",
+						"command": "stino_new_sketch"
+					},
+					{"caption": "-"},
+					{
+						"caption": "mqtt_mega",
+						"id": "stino_sketch_mqtt_mega",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/mqtt_mega"}
+					},
+					{
+						"caption": "rfid_13.5",
+						"id": "stino_sketch_rfid_13.5",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_13.5"}
+					},
+					{
+						"caption": "rfid_door",
+						"id": "stino_sketch_rfid_door",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_door"}
+					},
+					{
+						"caption": "rfid_ether_test",
+						"id": "stino_sketch_rfid_ether_test",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_ether_test"}
+					},
+					{
+						"caption": "rfid_siemens_housing",
+						"id": "stino_sketch_rfid_siemens_housing",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_siemens_housing"}
+					},
+					{
+						"caption": "RFID_SIEMENS_HOUSING_UNO",
+						"id": "stino_sketch_RFID_SIEMENS_HOUSING_UNO",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "rfid_ether_test",
+								"id": "stino_sketch_rfid_ether_test",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/RFID_SIEMENS_HOUSING_UNO/rfid_ether_test"}
+							}						]
+					},
+					{
+						"caption": "rfid_siemens_housing_uno2",
+						"id": "stino_sketch_rfid_siemens_housing_uno2",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_siemens_housing_uno2"}
+					},
+					{
+						"caption": "rfid_siemens_housing_uno_ether",
+						"id": "stino_sketch_rfid_siemens_housing_uno_ether",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_siemens_housing_uno_ether"}
+					},
+					{
+						"caption": "rfid_uart",
+						"id": "stino_sketch_rfid_uart",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/rfid_uart"}
+					},
+					{
+						"caption": "sketch",
+						"id": "stino_sketch_sketch",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "mqtt",
+								"id": "stino_sketch_mqtt",
+								"children":
+								[
+									{"caption": "-"},
+									{
+										"caption": "CA_Stauderplatz_Tuere",
+										"id": "stino_sketch_CA_Stauderplatz_Tuere",
+										"command": "stino_open_sketch",
+										"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/sketch/mqtt/CA_Stauderplatz_Tuere"}
+									},
+									{
+										"caption": "test01",
+										"id": "stino_sketch_test01",
+										"command": "stino_open_sketch",
+										"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/sketch/mqtt/test01"}
+									}								]
+							}						]
+					},
+					{
+						"caption": "sketch_feb08a",
+						"id": "stino_sketch_sketch_feb08a",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/sketch_feb08a"}
+					},
+					{
+						"caption": "wemos_D1_OTA",
+						"id": "stino_sketch_wemos_D1_OTA",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/wemos_D1_OTA"}
+					},
+					{
+						"caption": "wemos_mini_rc522_post",
+						"id": "stino_sketch_wemos_mini_rc522_post",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "C:/Users/offic/Documents/Arduino/wemos_mini_rc522_post"}
+					}
+				]
+			}
+		]
+	}
+]
