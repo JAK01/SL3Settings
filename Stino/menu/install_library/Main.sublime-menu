@@ -16424,6 +16424,11 @@
 											"id": "stino_lib_cat_name_ver_4.1.8",
 											"command": "stino_install_lib",
 											"args": {"category": "Display", "name": "ArduinoMenu library", "version": "4.1.8"}
+										},
+										{											"caption": "4.2.0",
+											"id": "stino_lib_cat_name_ver_4.2.0",
+											"command": "stino_install_lib",
+											"args": {"category": "Display", "name": "ArduinoMenu library", "version": "4.2.0"}
 										}
 									]								},
 									{
@@ -24571,6 +24576,11 @@
 											"id": "stino_lib_cat_name_ver_1.0.0",
 											"command": "stino_install_lib",
 											"args": {"category": "Sensors", "name": "MLX90393_raw", "version": "1.0.0"}
+										},
+										{											"caption": "1.0.1",
+											"id": "stino_lib_cat_name_ver_1.0.1",
+											"command": "stino_install_lib",
+											"args": {"category": "Sensors", "name": "MLX90393_raw", "version": "1.0.1"}
 										}
 									]								},
 									{
